@@ -32,7 +32,9 @@ The output matrix can also be viewed to understand detection numerically.
 Laplacian Edge Detection Mask:
 
 [[-1, -1, -1],
+
  [-1,  8, -1],
+
  [-1, -1, -1]]
 
 This highlights areas with high-intensity changes (edges of objects).
