@@ -41,23 +41,15 @@ Run executable with input and output filenames
 Display or download the processed result
 
 🖼️ Sample Output
+
 Input: Dog image
 ![Cat4](https://github.com/user-attachments/assets/e1b2a03b-9667-411f-8798-f33756cf77d6)
 
 Output: 
 1. 10x10 Matix showing the object detection 
 
---- Object Detection Output Matrix (Top-left 10x10) ---
-  0   0   0   0   0   0   0   0   0   0 
-  0   1   3   3   1   2   4   4   3   4 
-  0   2   3   3   0   0   1   4   2   2 
-  0   2   4   1   2   3   3   1   5   4 
-  0   1   4   1   5   3   3   8   7   3 
-  0   1   7   1   5   1   2   6  10   1 
-  0   8   8   4   2   3   5  11   7   5 
-  0   0   6   1   1   6   0  10   6   3 
-  0   2   1   2   2   1   2   9   6   2 
-  0   2   1   3   3   1   2   9   7   3 
+![image](https://github.com/user-attachments/assets/1c88195c-095d-4b2d-b1a8-bf9cb1002edf)
+
 Object detection completed. Output saved to output.bmp
 
 2.Grayscale image with clear object boundaries
