@@ -51,7 +51,7 @@ Output:
 ![image](https://github.com/user-attachments/assets/1c88195c-095d-4b2d-b1a8-bf9cb1002edf)
 
 
-2.Grayscale image with clear object boundaries
+2. Grayscale image with clear object boundaries
 
 ![image](https://github.com/user-attachments/assets/372dc361-a82f-4d20-9ef8-1ce2166d65f6)
 
