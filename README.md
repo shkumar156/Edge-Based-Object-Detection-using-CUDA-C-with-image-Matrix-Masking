@@ -54,7 +54,7 @@ Display or download the processed result
 Input: Dog image
 ![Cat4](https://github.com/user-attachments/assets/e1b2a03b-9667-411f-8798-f33756cf77d6)
 
-Output: 
+🖼️ Output: 
 1. 10x10 Matix showing the object detection 
 
 ![image](https://github.com/user-attachments/assets/1c88195c-095d-4b2d-b1a8-bf9cb1002edf)
