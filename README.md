@@ -50,7 +50,6 @@ Output:
 
 ![image](https://github.com/user-attachments/assets/1c88195c-095d-4b2d-b1a8-bf9cb1002edf)
 
-Object detection completed. Output saved to output.bmp
 
 2.Grayscale image with clear object boundaries
 
