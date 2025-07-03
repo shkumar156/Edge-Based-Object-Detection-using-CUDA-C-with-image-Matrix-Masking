@@ -1,8 +1,10 @@
 # Edge-Based-Object-Detection-using-CUDA-C-with-image-Matrix-Masking
 📘 Objective
+
 To detect objects (edges) in an image using a 3×3 mask in CUDA C by converting the image to matrix form and processing each pixel in parallel using GPU threads.
 
 ⚙️ Tools & Technologies
+
 CUDA Toolkit (nvcc compiler)
 
 C/C++ with NVIDIA extensions
@@ -14,6 +16,7 @@ Google Colab (for GPU access)
 Python (for preprocessing/postprocessing)
 
 🧠 Working Principle
+
 The input image is converted to grayscale using weighted RGB values.
 
 A 3×3 Laplacian mask is applied to each pixel using a CUDA kernel.
@@ -25,13 +28,17 @@ The result is written back as a new image showing detected edges.
 The output matrix can also be viewed to understand detection numerically.
 
 🧪 Mask Used
+
 Laplacian Edge Detection Mask:
+
 [[-1, -1, -1],
  [-1,  8, -1],
  [-1, -1, -1]]
+
 This highlights areas with high-intensity changes (edges of objects).
 
 🧾 Steps
+
 Upload image and convert to .bmp
 
 Compile CUDA file with nvcc
